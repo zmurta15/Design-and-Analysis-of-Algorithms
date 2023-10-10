@@ -1,6 +1,3 @@
-# Design-and-Analysis-of-Algorithms
-Projects and exercises from the class: Design and Analysis of Algorithms (Análise e Desenho de Algoritmos)
-
 # Design and Analysis of Algorithms - Projects and exercises from the class: Design and Analysis of Algorithms (Análise e Desenho de Algoritmos)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
